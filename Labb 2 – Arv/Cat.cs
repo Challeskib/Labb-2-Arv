@@ -17,15 +17,18 @@ namespace Labb_2___Arv
             Age = age;
             Weight = weight;
             TailLength = taillenght;
-
         }
 
+        public Cat()
+        {
+
+        }
 
 
         public void Hiss()
         {
             Console.WriteLine($"{Name} Hisses!!!!!! ssssssszsszzszszs!!!! ");
-            
+
         }
 
         public void MakeSound()

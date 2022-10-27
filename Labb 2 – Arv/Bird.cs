@@ -21,6 +21,11 @@ namespace Labb_2___Arv
 
         }
 
+        public Bird()
+        {
+
+        }
+
         public void MakeSound()
         {
             Console.WriteLine("ChirpChirpChirp");

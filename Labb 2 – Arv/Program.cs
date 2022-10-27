@@ -6,10 +6,9 @@ namespace Labb_2___Arv
     {
         static void Main(string[] args)
         {
+
             
             
-
-
 
         }
     }
